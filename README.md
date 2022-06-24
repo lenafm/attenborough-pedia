@@ -21,7 +21,7 @@ Darcy: the learning bird <br/>
 
 **What do you expect to achieve by the end of summer school?**
 
-Process data
-Some visualisations
-Initial analysis (for example, network of animals linked by common adjectives)
-Surprise!
+Process data <br/>
+Some visualisations <br/>
+Initial analysis (for example, network of animals linked by common adjectives) <br/>
+Surprise! <br/>
