@@ -12,12 +12,12 @@ Are there commonly used adjectives for certain species?
 
 **What is everyone's role in the group?**
 
-Violeta: the boss
-Lena: the secretary
-Ben: the code monkey
-Thibault: the language expert
-Sophia: the learning puppy
-Darcy: the learning bird
+Violeta: the boss <br/>
+Lena: the secretary <br/>
+Ben: the code monkey <br/>
+Thibault: the language expert <br/>
+Sophia: the learning puppy <br/>
+Darcy: the learning bird <br/>
 
 **What do you expect to achieve by the end of summer school?**
 
